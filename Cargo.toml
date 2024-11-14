@@ -3,7 +3,7 @@ proc-macro = true
 
 [package]
 name = "autorun_config"
-version = "0.1.001"
+version = "0.1.1001"
 edition = "2021"
 description = "Macros to easily create configurations that can pull their data from command line arguments or environment variables"
 license = "Apache-2.0"
