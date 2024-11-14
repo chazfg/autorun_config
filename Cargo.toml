@@ -7,6 +7,9 @@ version = "0.1.0"
 edition = "2021"
 description = "Macros to easily create configurations that can pull their data from command line arguments or environment variables"
 license = "Apache-2.0"
+keywords = ["macros", "config"]
+categories = ["command-line-utilities", "config"]
+repository = "https://github.com/chazfg/autorun_config"
 
 [dependencies]
 proc-macro2 = "1.0.89"
